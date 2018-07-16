@@ -3,23 +3,23 @@ This is a python code to read the binary output (snapshot) of Massive Black II s
 
 MBII Blocks:
 
-1.position (type 0, 1, 4, 5)
-2.velocity (type 0, 1, 4, 5)
-3.id       (type 0, 1, 4, 5)
-4.masses   (type 0, 4, 5)
-5.internal energy (type 0)
-6.density (type 0)
-7.electron abundance (type 0)
-8.HI abundance (type 0)
-9.smoothing length (type 0)
-10.star formation rate (type 0)
-11.stellar formation time (type 4)
-12.metallicity (type 0, 4)
-13.bh_mass (type 5)
-14. bh_modot (type 5)
-15.bh_nprogs (type 5)
-
-
+1.position (type 0, 1, 4, 5)\\
+2.velocity (type 0, 1, 4, 5)\\
+3.id       (type 0, 1, 4, 5)\\
+4.masses   (type 0, 4, 5)\\
+5.internal energy (type 0)\\
+6.density (type 0)\\
+7.electron abundance (type 0)\
+8.HI abundance (type 0)\\
+9.smoothing length (type 0)\\
+10.star formation rate (type 0)\\
+11.stellar formation time (type 4)\\
+12.metallicity (type 0, 4)\\
+13.bh_mass (type 5)\\
+14. bh_modot (type 5)\\
+15.bh_nprogs (type 5)\\
+\\
+\\
 1.position (type 0, 1, 4, 5)
 2.velocity (type 0, 1, 4, 5)
 3.id       (type 0, 1, 4, 5)
