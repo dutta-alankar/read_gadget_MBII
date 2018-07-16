@@ -1,8 +1,7 @@
 # read_gadget_MBII
-This is a python code to read the binary output (snapshot) of Massive Black II simulation of Khandai et al __
-
-MBII Blocks:
-
+This is a python code to read the binary output (snapshot) of Massive Black II simulation of Khandai et al <br />
+<br />
+MBII Blocks:<br />
 1.position (type 0, 1, 4, 5)<br />
 2.velocity (type 0, 1, 4, 5)<br />
 3.id       (type 0, 1, 4, 5)<br />
