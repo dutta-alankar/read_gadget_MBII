@@ -1,5 +1,5 @@
 # read_gadget_MBII
-This is a python code to read the binary output of Massive Black II simulation of Khandai et al
+This is a python code to read the binary output (snapshot) of Massive Black II simulation of Khandai et al
 
 MBII Blocks:
 
